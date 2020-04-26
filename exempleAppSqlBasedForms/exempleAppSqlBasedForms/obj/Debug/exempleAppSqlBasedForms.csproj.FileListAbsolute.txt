@@ -1,0 +1,20 @@
+C:\Users\Wolf\source\repos\exempleAppSqlBasedForms\exempleAppSqlBasedForms\bin\Debug\exempleAppSqlBasedForms.exe
+C:\Users\Wolf\source\repos\exempleAppSqlBasedForms\exempleAppSqlBasedForms\bin\Debug\exempleAppSqlBasedForms.pdb
+C:\Users\Wolf\source\repos\exempleAppSqlBasedForms\exempleAppSqlBasedForms\obj\Debug\exempleAppSqlBasedForms.csprojResolveAssemblyReference.cache
+C:\Users\Wolf\source\repos\exempleAppSqlBasedForms\exempleAppSqlBasedForms\obj\Debug\exempleAppSqlBasedForms.Form1.resources
+C:\Users\Wolf\source\repos\exempleAppSqlBasedForms\exempleAppSqlBasedForms\obj\Debug\exempleAppSqlBasedForms.Properties.Resources.resources
+C:\Users\Wolf\source\repos\exempleAppSqlBasedForms\exempleAppSqlBasedForms\obj\Debug\exempleAppSqlBasedForms.csproj.GenerateResource.Cache
+C:\Users\Wolf\source\repos\exempleAppSqlBasedForms\exempleAppSqlBasedForms\obj\Debug\exempleAppSqlBasedForms.csproj.CoreCompileInputs.cache
+C:\Users\Wolf\source\repos\exempleAppSqlBasedForms\exempleAppSqlBasedForms\obj\Debug\exempleAppSqlBasedForms.exe
+C:\Users\Wolf\source\repos\exempleAppSqlBasedForms\exempleAppSqlBasedForms\obj\Debug\exempleAppSqlBasedForms.pdb
+C:\Users\Wolf\source\repos\exempleAppSqlBasedForms\exempleAppSqlBasedForms\bin\Debug\exempleAppSqlBasedForms.exe.config
+G:\HARD\Calculator Razvi\Anul 2\arhiva C-Sharp\exempleAppSqlBasedForms\exempleAppSqlBasedForms\bin\Debug\exempleAppSqlBasedForms.exe.config
+G:\HARD\Calculator Razvi\Anul 2\arhiva C-Sharp\exempleAppSqlBasedForms\exempleAppSqlBasedForms\bin\Debug\exempleAppSqlBasedForms.exe
+G:\HARD\Calculator Razvi\Anul 2\arhiva C-Sharp\exempleAppSqlBasedForms\exempleAppSqlBasedForms\bin\Debug\exempleAppSqlBasedForms.pdb
+G:\HARD\Calculator Razvi\Anul 2\arhiva C-Sharp\exempleAppSqlBasedForms\exempleAppSqlBasedForms\obj\Debug\exempleAppSqlBasedForms.csprojAssemblyReference.cache
+G:\HARD\Calculator Razvi\Anul 2\arhiva C-Sharp\exempleAppSqlBasedForms\exempleAppSqlBasedForms\obj\Debug\exempleAppSqlBasedForms.Form1.resources
+G:\HARD\Calculator Razvi\Anul 2\arhiva C-Sharp\exempleAppSqlBasedForms\exempleAppSqlBasedForms\obj\Debug\exempleAppSqlBasedForms.Properties.Resources.resources
+G:\HARD\Calculator Razvi\Anul 2\arhiva C-Sharp\exempleAppSqlBasedForms\exempleAppSqlBasedForms\obj\Debug\exempleAppSqlBasedForms.csproj.GenerateResource.cache
+G:\HARD\Calculator Razvi\Anul 2\arhiva C-Sharp\exempleAppSqlBasedForms\exempleAppSqlBasedForms\obj\Debug\exempleAppSqlBasedForms.csproj.CoreCompileInputs.cache
+G:\HARD\Calculator Razvi\Anul 2\arhiva C-Sharp\exempleAppSqlBasedForms\exempleAppSqlBasedForms\obj\Debug\exempleAppSqlBasedForms.exe
+G:\HARD\Calculator Razvi\Anul 2\arhiva C-Sharp\exempleAppSqlBasedForms\exempleAppSqlBasedForms\obj\Debug\exempleAppSqlBasedForms.pdb
