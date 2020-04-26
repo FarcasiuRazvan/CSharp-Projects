@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "u/BZoxvX/0YhygwUDfHzFtzCHRAVgZdTL9LFR9Gq16+fYrrMRCxGx+zq6ju0BhaIjcfaum0J+cIG2GAj9ZZRww==",
+  "success": true,
+  "projectFilePath": "G:\\HARD\\Calculator Razvi\\Laptop Razvi\\Facultate\\an2\\Anul 2\\metode avansate de programare\\laborator\\ToyLanguageInterpretor\\ToyLanguageInterpretor\\ToyLanguageInterpretor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WOLF\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\WOLF\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\WOLF\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\WOLF\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\WOLF\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\WOLF\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

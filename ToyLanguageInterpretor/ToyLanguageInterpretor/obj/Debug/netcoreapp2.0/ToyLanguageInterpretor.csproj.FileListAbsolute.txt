@@ -1,0 +1,23 @@
+C:\Users\Wolf\source\repos\ToyLanguageInterpretor\ToyLanguageInterpretor\obj\Debug\netcoreapp2.0\ToyLanguageInterpretor.csprojResolveAssemblyReference.cache
+C:\Users\Wolf\source\repos\ToyLanguageInterpretor\ToyLanguageInterpretor\obj\Debug\netcoreapp2.0\ToyLanguageInterpretor.csproj.CoreCompileInputs.cache
+C:\Users\Wolf\source\repos\ToyLanguageInterpretor\ToyLanguageInterpretor\obj\Debug\netcoreapp2.0\ToyLanguageInterpretor.AssemblyInfoInputs.cache
+C:\Users\Wolf\source\repos\ToyLanguageInterpretor\ToyLanguageInterpretor\obj\Debug\netcoreapp2.0\ToyLanguageInterpretor.AssemblyInfo.cs
+C:\Users\Wolf\source\repos\ToyLanguageInterpretor\ToyLanguageInterpretor\bin\Debug\netcoreapp2.0\ToyLanguageInterpretor.deps.json
+C:\Users\Wolf\source\repos\ToyLanguageInterpretor\ToyLanguageInterpretor\bin\Debug\netcoreapp2.0\ToyLanguageInterpretor.runtimeconfig.json
+C:\Users\Wolf\source\repos\ToyLanguageInterpretor\ToyLanguageInterpretor\bin\Debug\netcoreapp2.0\ToyLanguageInterpretor.runtimeconfig.dev.json
+C:\Users\Wolf\source\repos\ToyLanguageInterpretor\ToyLanguageInterpretor\bin\Debug\netcoreapp2.0\ToyLanguageInterpretor.dll
+C:\Users\Wolf\source\repos\ToyLanguageInterpretor\ToyLanguageInterpretor\bin\Debug\netcoreapp2.0\ToyLanguageInterpretor.pdb
+C:\Users\Wolf\source\repos\ToyLanguageInterpretor\ToyLanguageInterpretor\obj\Debug\netcoreapp2.0\ToyLanguageInterpretor.dll
+C:\Users\Wolf\source\repos\ToyLanguageInterpretor\ToyLanguageInterpretor\obj\Debug\netcoreapp2.0\ToyLanguageInterpretor.pdb
+G:\HARD\Calculator Razvi\Laptop Razvi\Facultate\an2\Anul 2\metode avansate de programare\laborator\ToyLanguageInterpretor\ToyLanguageInterpretor\bin\Debug\netcoreapp2.0\ToyLanguageInterpretor.deps.json
+G:\HARD\Calculator Razvi\Laptop Razvi\Facultate\an2\Anul 2\metode avansate de programare\laborator\ToyLanguageInterpretor\ToyLanguageInterpretor\bin\Debug\netcoreapp2.0\ToyLanguageInterpretor.runtimeconfig.json
+G:\HARD\Calculator Razvi\Laptop Razvi\Facultate\an2\Anul 2\metode avansate de programare\laborator\ToyLanguageInterpretor\ToyLanguageInterpretor\bin\Debug\netcoreapp2.0\ToyLanguageInterpretor.runtimeconfig.dev.json
+G:\HARD\Calculator Razvi\Laptop Razvi\Facultate\an2\Anul 2\metode avansate de programare\laborator\ToyLanguageInterpretor\ToyLanguageInterpretor\bin\Debug\netcoreapp2.0\ToyLanguageInterpretor.dll
+G:\HARD\Calculator Razvi\Laptop Razvi\Facultate\an2\Anul 2\metode avansate de programare\laborator\ToyLanguageInterpretor\ToyLanguageInterpretor\bin\Debug\netcoreapp2.0\ToyLanguageInterpretor.pdb
+G:\HARD\Calculator Razvi\Laptop Razvi\Facultate\an2\Anul 2\metode avansate de programare\laborator\ToyLanguageInterpretor\ToyLanguageInterpretor\obj\Debug\netcoreapp2.0\ToyLanguageInterpretor.csprojAssemblyReference.cache
+G:\HARD\Calculator Razvi\Laptop Razvi\Facultate\an2\Anul 2\metode avansate de programare\laborator\ToyLanguageInterpretor\ToyLanguageInterpretor\obj\Debug\netcoreapp2.0\ToyLanguageInterpretor.csproj.CoreCompileInputs.cache
+G:\HARD\Calculator Razvi\Laptop Razvi\Facultate\an2\Anul 2\metode avansate de programare\laborator\ToyLanguageInterpretor\ToyLanguageInterpretor\obj\Debug\netcoreapp2.0\ToyLanguageInterpretor.AssemblyInfoInputs.cache
+G:\HARD\Calculator Razvi\Laptop Razvi\Facultate\an2\Anul 2\metode avansate de programare\laborator\ToyLanguageInterpretor\ToyLanguageInterpretor\obj\Debug\netcoreapp2.0\ToyLanguageInterpretor.AssemblyInfo.cs
+G:\HARD\Calculator Razvi\Laptop Razvi\Facultate\an2\Anul 2\metode avansate de programare\laborator\ToyLanguageInterpretor\ToyLanguageInterpretor\obj\Debug\netcoreapp2.0\ToyLanguageInterpretor.dll
+G:\HARD\Calculator Razvi\Laptop Razvi\Facultate\an2\Anul 2\metode avansate de programare\laborator\ToyLanguageInterpretor\ToyLanguageInterpretor\obj\Debug\netcoreapp2.0\ToyLanguageInterpretor.pdb
+G:\HARD\Calculator Razvi\Laptop Razvi\Facultate\an2\Anul 2\metode avansate de programare\laborator\ToyLanguageInterpretor\ToyLanguageInterpretor\obj\Debug\netcoreapp2.0\ToyLanguageInterpretor.genruntimeconfig.cache
